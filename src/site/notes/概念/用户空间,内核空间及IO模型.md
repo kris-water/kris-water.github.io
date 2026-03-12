@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//io/","title":"用户空间,内核空间及IO模型","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/概念/用户空间,内核空间及IO模型/","title":"用户空间,内核空间及IO模型"}
 ---
 
 
